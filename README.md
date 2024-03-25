@@ -1,0 +1,1 @@
+ The JavaScript code snippets with comments explaining each code's purpose. The snippets cover various basic arithmetic operations, calculating averages, finding profits, extracting digits, determining the largest of three numbers, checking for even/odd numbers, and identifying prime numbers. Each code snippet is succinctly described for clarity and ease of understanding.
